@@ -1,0 +1,4 @@
+docling>=2.90,<3
+pymorphy3>=2.0
+pyspellchecker>=0.8
+pillow>=10

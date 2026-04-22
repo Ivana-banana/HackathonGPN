@@ -1,0 +1,21 @@
+.venv/
+.idea/
+.claude/
+__pycache__/
+*.pyc
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+# Inputs
+pdfs/
+*.pdf
+
+# Outputs
+output/
+output_*/
+submission*.zip
+*.log
+
+# Local-only context
+CLAUDE.md
